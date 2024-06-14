@@ -1,0 +1,11 @@
+[package]
+name = "pixelfluter-v6-pcap"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.86"
+clap = "4.5"
+etherparse = "0.15"
+libc = "0.2.155"
+pcap = "2.0.0"
